@@ -25,13 +25,10 @@ coverage/
 # Local agent / editor / tooling state
 .claude
 .agents
-.vscode/
 .idea/
 skills-lock.json
 
 # Environment
-.env
-.env.local
 
 # Logs
 *.log
@@ -42,3 +39,4 @@ npm-debug.log*
 
 # scratch projects from test/tailwind-compile.test.ts
 .tailwind-compile-*
+config.bat
